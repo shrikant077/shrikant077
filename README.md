@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a passionate Software Developer from India<br><br>- 🔭 AI-ML enthusiast<br>- 📚 I'm currently pursuing B.Tech in Information Technology from Techno Main Salt Lake<br>- ⚡ Reach me: my-portfolio<br>- 📄 My Resume: View PDF</p>
+<p align="left">I'm a passionate Software Developer from India<br><br>- 🔭 AI-ML enthusiast<br>- 📚 I'm currently pursuing B.Tech in Information Technology from Techno Main Salt Lake<br>- ⚡ Reach me: <a href="https://shrikantmanikgaikwad.netlify.app/" target="__blank">My Portfolio</a><br>- 📄 My Resume: <a href="https://drive.google.com/file/d/1GJOeu5A4z8GN6Wt2qFih0zFhUzE2Miaf/view?usp=drive_link" target="__blank">View PDF</a></p>
 
 ###
 <br/>
